@@ -4,6 +4,8 @@
 
 A curated collection of GPT-4o image generation prompts. This repository aims to help creators better understand and utilize GPT-4o's image generation capabilities.
 
+Discover more creative prompts and tools at [ImgEdify](https://ImgEdify.com/explore).
+
 [English](./README.md) | [中文](./README.zh-CN.md)
 
 ## 🌟 Features
@@ -45,71 +47,250 @@ And many other amazing creators from the community who have shared their prompts
 ## Available Prompts
 
 ### Table of Contents
-1. [Advertisement poster](#advertisement-poster) - by [Melis](https://x.com/miilesus/status/1909254147771089098)
-2. [物理破坏效果卡片](#) - by [歸藏(guizang.ai)](https://x.com/op7418/status/1912782170424578339)
-3. [dimensional break card](#dimensional-break-card) - by [Howard Chen](https://x.com/hc_dsn/status/1912367201476309396)
-4. [poster](#poster) - by [Melis](https://x.com/miilesus/status/1912796694309196065)
-5. [fashion magazine cover](#fashion-magazine-cover) - by [宝玉](https://x.com/dotey/status/1912541006961967325)
-6. [passport page](#passport-page) - by [89'S](https://x.com/M_w14_/status/1912146666410459618)
-7. [PSA](#psa) - by [gnrly.xyz](https://x.com/gnrlyxyz/status/1912188062278238513)
-8. [keycap scene](#keycap-scene) - by [Ege](https://x.com/egeberkina/status/1911828402727784525)
-9. [low poly](#low-poly) - by [Amira Zairi](https://x.com/azed_ai/status/1912084257918595342)
-10. [typographic portrait](#typographic-portrait) - by [firatbilal](https://x.com/firatbilal/status/1911849629211050492)
-11. [illustration](#illustration) - by [Gizem Akdag](https://x.com/gizakdag/status/1911781605569347976)
-12. [Turn your profile image into a sculpture!](#turn-your-profile-image-into-a-sculpture) - by [Umesh](https://x.com/umesh_ai/status/1905181058745971077)
-13. [Reality photo](#reality-photo) - by [ℂamellia 翊瑄](https://x.com/Camelliayang/status/1910671488115425315)
-14. [Turn  drawings into stunning photographs](#turn-drawings-into-stunning-photographs) - by [Umesh](https://x.com/umesh_ai/status/1910589711296430310)
-15. [讽刺漫画](#) - by [宝玉](https://x.com/dotey/status/1911988003729203648)
-16. [拟人化的 3D 形象](#-3d-) - by [宝玉](https://x.com/dotey/status/1911988003729203648)
-17. [微型立体场景呈现](#) - by [宝玉](https://x.com/berryxia_ai/status/1911666078838865957)
-18. [等距视角微缩场景](#) - by [Berryxia.AI](https://x.com/berryxia_ai/status/1911666078838865957)
-19. [摊开的古书](#) - by [dangjin](https://x.com/JinsFavorites/status/1911437215764185133)
-20. [泡罩药片包装图](#) - by [Terry](https://x.com/trxuanxw/status/1911940417828053221)
-21. [Isometric view of a city](#isometric-view-of-a-city) - by [Terry](https://x.com/trxuanxw/status/1906918197074473053)
-22. [泰坦尼克号经典场面](#) - by [balconychy(贝壳里奇)](https://x.com/balconychy/status/1911620533071835428)
-23. [立体浮雕风格](#) - by [balconychy(贝壳里奇)](https://x.com/balconychy/status/1911620533071835428)
-24. [Figure Box](#figure-box) - by [Howard Chen](https://x.com/hc_dsn/status/1908429874945233225)
-25. [Changer ages](#changer-ages) - by [Howard Chen](https://x.com/hc_dsn/status/1908734797763256631)
-26. [3D characters](#3d-characters) - by [Brett  Designjoy](https://x.com/BrettFromDJ/status/1910711941250621845)
-27. [action figure](#action-figure) - by [Eduardo Macouzet](https://x.com/eduardomacouzet/status/1910260355059548483)
-28. [fluffy logo](#fluffy-logo) - by [Gizem Akdag](https://x.com/gizakdag/status/1911460600535797926)
-29. [3D fluffy emojis](#3d-fluffy-emojis) - by [Gizem Akdag](https://x.com/gizakdag/status/1911075302941622512)
-30. [影视剧的角色手办](#) - by [AI进化论-花生](https://x.com/AlchainHust/status/1906997559937364052/photo/2)
-31. [3D-style icons](#3d-style-icons) - by [Amira Zairi](https://x.com/azed_ai/status/1906285785961406891)
-32. [3d avatar asset](#3d-avatar-asset) - by [AI Imagined](https://x.com/AIimagined/status/1906479539351589329)
-33. [action figure pack](#action-figure-pack) - by [Min Choi](https://x.com/minchoi/status/1910737237458776434)
-34. [3D character](#3d-character) - by [Amira Zairi](https://x.com/azed_ai/status/1911782508095840622)
-35. [claymation](#claymation) - by [Amira Zairi](https://x.com/hc_dsn/status/1911718985433027036)
-36. [Arcade diorama](#arcade-diorama) - by [Howard Chen](https://x.com/hc_dsn/status/1911718985433027036)
-37. [黛玉葬花](#) - by [宝玉](https://x.com/dotey/status/1911563718804295962)
-38. [工作间手办](#) - by [-Zho-](https://x.com/ZHO_ZHO_ZHO/status/1911639551640314147)
-39. [LinkedIn Photo](#linkedin-photo) - by [Howard Chen](https://x.com/hc_dsn/status/1911402784106201427)
-40. [把图片变成正在雕刻的雕塑](#) - by [-Zho-](https://x.com/ZHO_ZHO_ZHO/status/1911433310666203311)
-41. [沙滩雕塑](#) - by [-Zho-](https://x.com/ZHO_ZHO_ZHO/status/1911687123696304436)
-42. [速效快乐胶囊](#) - by [-Zho-](https://x.com/ZHO_ZHO_ZHO/status/1911724629460455896)
-43. [“去 AI 感”密码](#-ai-) - by [-Zho-](https://x.com/ZHO_ZHO_ZHO/status/1911678504221245816)
-44. [微型立体场景](#) - by [宝玉](https://x.com/dotey/status/1911609122547449886)
-45. [萌化电影剧照](#) - by [藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
-46. [照片涂鸦玩法](#) - by [藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
-47. [照片涂鸦玩法](#) - by [藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
-48. [时尚杂志的封面](#) - by [藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
-49. [游戏角色](#) - by [藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
-50. [微观世界](#) - by [藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
-51. [3D 图标](#3d-) - by [藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
-52. [3D 图标](#3d-) - by [藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
-53. [手绘风格的信息图卡片](#) - by [宝玉](https://x.com/dotey/status/1907903480678985784)
-54. [明信片](#) - by [藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
-55. [手帐玩法](#) - by [藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
-56. [手帐玩法](#) - by [藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
-57. [主题键帽](#) - by [藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
-58. [主题键帽](#) - by [藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
+1. [a premium claw machine](#a-premium-claw-machine) - by [Amira Zairi](https://x.com/azed_ai/status/1918666633176142125)
+2. [Q 版角色卡](#q-) - by [歸藏(guizang.ai)](https://x.com/op7418/status/1915739386278543766)
+3. [a luxurious wooden door](#a-luxurious-wooden-door) - by [Umesh](https://x.com/umesh_ai/status/1915243668870467950)
+4. [candy sculpture](#candy-sculpture) - by [candy sculpture](https://x.com/azed_ai/status/1915495730569240814)
+5. [3D miniature scene inside a clear glass snow globe](#3d-miniature-scene-inside-a-clear-glass-snow-globe) - by [阿曼达](https://mp.weixin.qq.com/s/vXzwkdXBMHJvI-J4GUehlw)
+6. [3D Emoji](#3d-emoji) - by [歸藏(guizang.ai)](https://x.com/op7418/status/1913132678100242652)
+7. [3D Emoji](#3d-emoji) - by [Gizem Akdag](https://x.com/gizakdag/status/1912858535643197927)
+8. [Blueprint schematic](#blueprint-schematic) - by [Amira Zairi](https://x.com/azed_ai/status/1914258586588639270)
+9. [A whimsical miniature Apple Store](#a-whimsical-miniature-apple-store) - by [Andy](https://x.com/andidacheung/status/1913783472092840241)
+10. [迷你 3D 风格建筑](#-3d-) - by [宝玉](https://x.com/dotey/status/1913759515700285569)
+11. [Capsule胶囊](#capsule) - by [藏老师](https://x.com/egeberkina/status/1913225556864147676)
+12. [Capsule](#capsule) - by [Ege](https://x.com/egeberkina/status/1913225556864147676)
+13. [Capsule](#capsule) - by [Ege](https://x.com/egeberkina/status/1913225547687088397)
+14. [Advertisement poster](#advertisement-poster) - by [Melis](https://x.com/miilesus/status/1909254147771089098)
+15. [物理破坏效果卡片](#) - by [歸藏(guizang.ai)](https://x.com/op7418/status/1912782170424578339)
+16. [dimensional break card](#dimensional-break-card) - by [Howard Chen](https://x.com/hc_dsn/status/1912367201476309396)
+17. [poster](#poster) - by [Melis](https://x.com/miilesus/status/1912796694309196065)
+18. [fashion magazine cover](#fashion-magazine-cover) - by [宝玉](https://x.com/dotey/status/1912541006961967325)
+19. [passport page](#passport-page) - by [89'S](https://x.com/M_w14_/status/1912146666410459618)
+20. [PSA](#psa) - by [gnrly.xyz](https://x.com/gnrlyxyz/status/1912188062278238513)
+21. [keycap scene](#keycap-scene) - by [Ege](https://x.com/egeberkina/status/1911828402727784525)
+22. [low poly](#low-poly) - by [Amira Zairi](https://x.com/azed_ai/status/1912084257918595342)
+23. [typographic portrait](#typographic-portrait) - by [firatbilal](https://x.com/firatbilal/status/1911849629211050492)
+24. [illustration](#illustration) - by [Gizem Akdag](https://x.com/gizakdag/status/1911781605569347976)
+25. [Turn your profile image into a sculpture!](#turn-your-profile-image-into-a-sculpture) - by [Umesh](https://x.com/umesh_ai/status/1905181058745971077)
+26. [Reality photo](#reality-photo) - by [ℂamellia 翊瑄](https://x.com/Camelliayang/status/1910671488115425315)
+27. [Turn  drawings into stunning photographs](#turn-drawings-into-stunning-photographs) - by [Umesh](https://x.com/umesh_ai/status/1910589711296430310)
+28. [讽刺漫画](#) - by [宝玉](https://x.com/dotey/status/1911988003729203648)
+29. [拟人化的 3D 形象](#-3d-) - by [宝玉](https://x.com/dotey/status/1911988003729203648)
+30. [微型立体场景呈现](#) - by [宝玉](https://x.com/berryxia_ai/status/1911666078838865957)
+31. [等距视角微缩场景](#) - by [Berryxia.AI](https://x.com/berryxia_ai/status/1911666078838865957)
+32. [摊开的古书](#) - by [dangjin](https://x.com/JinsFavorites/status/1911437215764185133)
+33. [泡罩药片包装图](#) - by [Terry](https://x.com/trxuanxw/status/1911940417828053221)
+34. [Isometric view of a city](#isometric-view-of-a-city) - by [Terry](https://x.com/trxuanxw/status/1906918197074473053)
+35. [泰坦尼克号经典场面](#) - by [balconychy(贝壳里奇)](https://x.com/balconychy/status/1911620533071835428)
+36. [立体浮雕风格](#) - by [balconychy(贝壳里奇)](https://x.com/balconychy/status/1911620533071835428)
+37. [Figure Box](#figure-box) - by [Howard Chen](https://x.com/hc_dsn/status/1908429874945233225)
+38. [Changer ages](#changer-ages) - by [Howard Chen](https://x.com/hc_dsn/status/1908734797763256631)
+39. [3D characters](#3d-characters) - by [Brett  Designjoy](https://x.com/BrettFromDJ/status/1910711941250621845)
+40. [action figure](#action-figure) - by [Eduardo Macouzet](https://x.com/eduardomacouzet/status/1910260355059548483)
+41. [fluffy logo](#fluffy-logo) - by [Gizem Akdag](https://x.com/gizakdag/status/1911460600535797926)
+42. [3D fluffy emojis](#3d-fluffy-emojis) - by [Gizem Akdag](https://x.com/gizakdag/status/1911075302941622512)
+43. [影视剧的角色手办](#) - by [AI进化论-花生](https://x.com/AlchainHust/status/1906997559937364052/photo/2)
+44. [3D-style icons](#3d-style-icons) - by [Amira Zairi](https://x.com/azed_ai/status/1906285785961406891)
+45. [3d avatar asset](#3d-avatar-asset) - by [AI Imagined](https://x.com/AIimagined/status/1906479539351589329)
+46. [action figure pack](#action-figure-pack) - by [Min Choi](https://x.com/minchoi/status/1910737237458776434)
+47. [3D character](#3d-character) - by [Amira Zairi](https://x.com/azed_ai/status/1911782508095840622)
+48. [claymation](#claymation) - by [Amira Zairi](https://x.com/hc_dsn/status/1911718985433027036)
+49. [Arcade diorama](#arcade-diorama) - by [Howard Chen](https://x.com/hc_dsn/status/1911718985433027036)
+50. [黛玉葬花](#) - by [宝玉](https://x.com/dotey/status/1911563718804295962)
+51. [工作间手办](#) - by [-Zho-](https://x.com/ZHO_ZHO_ZHO/status/1911639551640314147)
+52. [LinkedIn Photo](#linkedin-photo) - by [Howard Chen](https://x.com/hc_dsn/status/1911402784106201427)
+53. [把图片变成正在雕刻的雕塑](#) - by [-Zho-](https://x.com/ZHO_ZHO_ZHO/status/1911433310666203311)
+54. [沙滩雕塑](#) - by [-Zho-](https://x.com/ZHO_ZHO_ZHO/status/1911687123696304436)
+55. [速效快乐胶囊](#) - by [-Zho-](https://x.com/ZHO_ZHO_ZHO/status/1911724629460455896)
+56. [“去 AI 感”密码](#-ai-) - by [-Zho-](https://x.com/ZHO_ZHO_ZHO/status/1911678504221245816)
+57. [微型立体场景](#) - by [宝玉](https://x.com/dotey/status/1911609122547449886)
+58. [时尚杂志的封面](#) - by [藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
 59. [微观世界](#) - by [藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
-60. [邮票](#) - by [samdape](https://x.com/samdape/status/1908438312475373741)
-61. [手写笔记风格图片](#) - by [pongpong1](https://linux.do/t/topic/530679)
-62. [旅游手账插画](#) - by [宝玉](https://x.com/dotey/status/1907819985533071462)
-63. [Q版中式婚礼](#q) - by [balconychy(贝壳里奇)](https://x.com/balconychy/status/1909418699150237917)
+60. [3D 图标](#3d-) - by [藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
+61. [微观世界](#) - by [藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
+62. [3D 图标](#3d-) - by [藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
+63. [照片涂鸦玩法](#) - by [藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
+64. [萌化电影剧照](#) - by [藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
+65. [明信片](#) - by [藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
+66. [邮票](#) - by [samdape](https://x.com/samdape/status/1908438312475373741)
+67. [照片涂鸦玩法](#) - by [藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
+68. [主题键帽](#) - by [藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
+69. [主题键帽](#) - by [藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
+70. [手绘风格的信息图卡片](#) - by [宝玉](https://x.com/dotey/status/1907903480678985784)
+71. [手帐玩法](#) - by [藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
+72. [手帐玩法](#) - by [藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
+73. [游戏角色](#) - by [藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
+74. [手写笔记风格图片](#) - by [pongpong1](https://linux.do/t/topic/530679)
+75. [旅游手账插画](#) - by [宝玉](https://x.com/dotey/status/1907819985533071462)
+76. [Q版中式婚礼](#q) - by [balconychy(贝壳里奇)](https://x.com/balconychy/status/1909418699150237917)
 
 Below is a list of all available prompts with their details:
+
+### a premium claw machine
+
+A high-end, hyper-realistic 3D render of a premium claw machine inspired by Milka branding. The mach
+
+- **Model:** gpt4o
+- **Prompt Text:** `A high-end, hyper-realistic 3D render of a premium claw machine inspired by Milka branding. The machine is finished in glossy Milka lavender-purple with smooth, rounded edges, and set against a warm, minimal cream-toned backdrop. Inside, the claw machine is filled with meticulously detailed Milka chocolate bars, shiny golden hazelnuts, and soft plush cows with signature Milka purple patches. The front and top panels feature glowing, embossed Milka logos in white. The machine has crystal-clear glass panels, chrome control buttons, and a sleek joystick. Soft ambient lighting inside casts warm highlights on the prizes, creating a cozy, indulgent, and luxurious chocolate-themed arcade atmosphere. The focus is on elegance, brand immersion, and photorealistic product presentation.`
+- **Example Image:** 
+<img src="https://cdn.imgedify.com/imgedify/images/1746411555687-6mc7zaq2lk2.jpeg" alt="a premium claw machine" height="400">
+
+- **Author:** [Amira Zairi](https://x.com/azed_ai/status/1918666633176142125)
+---
+
+### Q 版角色卡
+
+画一张带有圆角和柔和投影的现代 UI 卡片 2:3图片。卡片中央应展示一个上穿图片转换为的 3D 卡通风角色。姿势和服饰应该都是图片的 Q 版版本，在角色下方，包含一个加粗的黑色标题（“Reyna”）
+
+- **Model:** gpt4o
+- **Prompt Text:** `画一张带有圆角和柔和投影的现代 UI 卡片 2:3图片。卡片中央应展示一个上穿图片转换为的 3D 卡通风角色。姿势和服饰应该都是图片的 Q 版版本，在角色下方，包含一个加粗的黑色标题（“Reyna”）和一个字体更小、颜色更浅的副标题（“Valorant”）。使用干净、简约的白色或浅灰色背景。整体外观应感觉现代、有趣且富有科技感，适合创意应用或游戏界面。`
+- **Example Image:** 
+<img src="https://cdn.imgedify.com/imgedify/images/1745881822179-ob6slhokts.jpeg" alt="Q 版角色卡" height="400">
+
+- **Author:** [歸藏(guizang.ai)](https://x.com/op7418/status/1915739386278543766)
+---
+
+### a luxurious wooden door
+
+A close-up photograph of a luxurious wooden door with detailed paneling and rich grain texture. The 
+
+- **Model:** gpt4o
+- **Prompt Text:** `A close-up photograph of a luxurious wooden door with detailed paneling and rich grain texture. The door features a custom-shaped doorknob in the form of the [LOGO_NAME] logo, made of polished material (metal, brass, ceramic, etc.) to look realistic and tangible. The handle is mounted on an antique bronze base, with soft, ambient lighting emphasizing the reflections, shadows, and depth of both the knob and door.`
+- **Example Image:** 
+<img src="https://cdn.imgedify.com/imgedify/images/1745881819979-lopiam7p21.jpeg" alt="a luxurious wooden door" height="400">
+
+- **Author:** [Umesh](https://x.com/umesh_ai/status/1915243668870467950)
+---
+
+### candy sculpture
+
+a candy sculpture version of this portrait wrapped in transparent plastic and held by a hand, [backg
+
+- **Model:** gpt4o
+- **Prompt Text:** `a candy sculpture version of this portrait wrapped in transparent plastic and held by a hand, [background]`
+- **Example Image:** 
+<img src="https://cdn.imgedify.com/imgedify/images/1745881818096-qpbkdyc2xqs.jpeg" alt="candy sculpture" height="400">
+
+- **Author:** [candy sculpture](https://x.com/azed_ai/status/1915495730569240814)
+---
+
+### 3D miniature scene inside a clear glass snow globe
+
+Create a 3D miniature scene inside a clear glass snow globe, with a playful and cute child figurine 
+
+- **Model:** gpt4o
+- **Prompt Text:** `Create a 3D miniature scene inside a clear glass snow globe, with a playful and cute child figurine in the center. The child is wearing beige overalls, a brown t-shirt, yellow shoes, and is smiling with a joyful expression. Surrounding the child are construction-themed items like a yellow crane, excavators, and traffic cones, all in a playful, cartoonish style. The base of the snow globe is inscribed with the word "FENDI" in bold letters, and there are small stones scattered around the base. The background is a soft beige color, enhancing the warm, playful vibe of the scene. The snow globe should have a glossy, realistic texture, and the entire scene should evoke a feeling of joy and fun.`
+- **Example Image:** 
+<img src="https://cdn.imgedify.com/imgedify/images/1745454973251-wch16z45vza.jpeg" alt="3D miniature scene inside a clear glass snow globe" height="400">
+
+- **Author:** [阿曼达](https://mp.weixin.qq.com/s/vXzwkdXBMHJvI-J4GUehlw)
+---
+
+### 3D Emoji
+
+创建 [🧸] 的高分辨率 3D 渲染图，将其设计为一个可充气的蓬松物体。其形状应看起来柔软、圆润且充满空气——就像毛绒气球或充气玩具一样。
+
+使用光滑的哑光纹理，并搭配细微的织物褶皱和缝线，以强调其
+
+- **Model:** gpt4o
+- **Prompt Text:** `创建 [🧸] 的高分辨率 3D 渲染图，将其设计为一个可充气的蓬松物体。其形状应看起来柔软、圆润且充满空气——就像毛绒气球或充气玩具一样。
+
+使用光滑的哑光纹理，并搭配细微的织物褶皱和缝线，以强调其充气效果。其形状应略微不规则且柔软，并配以柔和的阴影和灯光，以突出其体积感和真实感。将其放置在干净简约的背景（浅灰色或淡蓝色）上，并保持俏皮的雕塑美感。`
+- **Example Image:** 
+<img src="https://cdn.imgedify.com/imgedify/images/1745279544923-d036iuo8rnu.jpeg" alt="3D Emoji" height="400">
+
+- **Author:** [歸藏(guizang.ai)](https://x.com/op7418/status/1913132678100242652)
+---
+
+### 3D Emoji
+
+Create a high-resolution 3D render of [] designed as an inflatable, puffy object. The shape should a
+
+- **Model:** gpt4o
+- **Prompt Text:** `Create a high-resolution 3D render of [] designed as an inflatable, puffy object. The shape should appear soft, rounded, and air-filled — like a plush balloon or blow-up toy. Use a smooth, matte texture with subtle fabric creases and stitching to emphasize the inflatable look. The form should be slightly irregular and squishy, with gentle shadows and soft lighting that highlight volume and realism. Place it on a clean, minimal background (light gray or pale blue), and maintain a playful, sculptural aesthetic.`
+- **Example Image:** 
+<img src="https://cdn.imgedify.com/imgedify/images/1745279542278-fql1nsaxlv.jpeg" alt="3D Emoji" height="400">
+
+- **Author:** [Gizem Akdag](https://x.com/gizakdag/status/1912858535643197927)
+---
+
+### Blueprint schematic
+
+A blueprint schematic of a retro-futuristic motorcycle, drawn in the style of early 20th-century ind
+
+- **Model:** gpt4o
+- **Prompt Text:** `A blueprint schematic of a retro-futuristic motorcycle, drawn in the style of early 20th-century industrial patents. Rendered in crisp blue ink with white technical lines, featuring exploded views, angular labels, and stamped diagram codes.`
+- **Example Image:** 
+<img src="https://cdn.imgedify.com/imgedify/images/1745248340542-hqkzuqp1bib.jpeg" alt="Blueprint schematic" height="400">
+
+- **Author:** [Amira Zairi](https://x.com/azed_ai/status/1914258586588639270)
+---
+
+### A whimsical miniature Apple Store
+
+A whimsical miniature Apple Store, designed to look like a giant Apple product box, complete with th
+
+- **Model:** gpt4o
+- **Prompt Text:** `A whimsical miniature Apple Store, designed to look like a giant Apple product box, complete with the iconic Apple logo and intricate details. The two-story building features large glass windows that clearly showcase a modern and high-end interior: minimalist display tables, bright and gentle lighting, and staff members assisting customers. On the street, adorable little figurines are strolling or relaxing, with benches, street lamps, and potted plants arranged around them, creating a charming corner of the city. The entire scene adopts an urban miniature landscape style, rich in detail and realism, with soft lighting that evokes a pleasant and relaxing afternoon atmosphere.`
+- **Example Image:** 
+<img src="https://cdn.imgedify.com/imgedify/images/1745116843453-x0oohb0fv5.jpeg" alt="A whimsical miniature Apple Store" height="400">
+
+- **Author:** [Andy](https://x.com/andidacheung/status/1913783472092840241)
+---
+
+### 迷你 3D 风格建筑
+
+3D Q版迷你风格，一个充满奇趣的迷你星巴克咖啡馆，外观就像一个巨大的外带咖啡杯，还有盖子和吸管。建筑共两层，大大的玻璃窗清晰地展示出内部温馨而精致的设计：木质的家具、温暖的灯光以及忙碌的咖啡师们。街
+
+- **Model:** gpt4o
+- **Prompt Text:** `3D Q版迷你风格，一个充满奇趣的迷你星巴克咖啡馆，外观就像一个巨大的外带咖啡杯，还有盖子和吸管。建筑共两层，大大的玻璃窗清晰地展示出内部温馨而精致的设计：木质的家具、温暖的灯光以及忙碌的咖啡师们。街道上有可爱的小人偶漫步或坐着，四周布置着长凳、街灯和植物盆栽，营造出迷人的城市一角。整体采用城市微缩景观风格，细节丰富、逼真，画面光线柔和、呈现出午后的惬意感受。`
+- **Example Image:** 
+<img src="https://cdn.imgedify.com/imgedify/images/1745114785548-gpw713fk7rf.jpeg" alt="迷你 3D 风格建筑" height="400">
+
+- **Author:** [宝玉](https://x.com/dotey/status/1913759515700285569)
+---
+
+### Capsule胶囊
+
+创建3:2的图片，一个高高的、外观逼真且充满活力的胶囊体水平漂浮着。
+
+它的左半边是标志性的星巴克绿色，标有“Starbucks – Uplifting the Everyday”字样以及经典的美人鱼
+
+- **Model:** gpt4o
+- **Prompt Text:** `创建3:2的图片，一个高高的、外观逼真且充满活力的胶囊体水平漂浮着。
+
+它的左半边是标志性的星巴克绿色，标有“Starbucks – Uplifting the Everyday”字样以及经典的美人鱼（Siren）标志。
+
+右半边是透明的，里面填充着漂浮的烘焙咖啡豆、细腻的奶泡漩涡、手绘咖啡杯图标以及代表社区连接的抽象暖色调线条，需要有背景色。`
+- **Example Image:** 
+<img src="https://cdn.imgedify.com/imgedify/images/1745113621425-xzlsmyjdwym.jpeg" alt="Capsule胶囊" height="400">
+
+- **Author:** [藏老师](https://x.com/egeberkina/status/1913225556864147676)
+---
+
+### Capsule
+
+A tall, realistic cheerful capsule floats horizontally. The left side is rich green with a red strip
+
+- **Model:** gpt4o
+- **Prompt Text:** `A tall, realistic cheerful capsule floats horizontally. The left side is rich green with a red stripe, labeled “GUCCI – ICON SERIES” in elegant serif. The right side is transparent, filled with tiny loafers, gold GG belt buckles, and silk scarf patterns — suspended like artifacts in a luxe archive`
+- **Example Image:** 
+<img src="https://cdn.imgedify.com/imgedify/images/1745113619395-gaw03rbsm2s.jpeg" alt="Capsule" height="400">
+
+- **Author:** [Ege](https://x.com/egeberkina/status/1913225556864147676)
+---
+
+### Capsule
+
+A tall, realistic cheerful capsule floats horizontally. The left side is soft neutral beige, labeled
+
+- **Model:** gpt4o
+- **Prompt Text:** `A tall, realistic cheerful capsule floats horizontally. The left side is soft neutral beige, labeled “UNIQLO – ESSENTIAL FIT” with the classic red UNIQLO logo. The right half is transparent, filled with floating fabric swatches, puffer coat folds, thermal fiber textures, and line icons of wardrobe basics.`
+- **Example Image:** 
+<img src="https://cdn.imgedify.com/imgedify/images/1745113617639-sadh61rv3ta.jpeg" alt="Capsule" height="400">
+
+- **Author:** [Ege](https://x.com/egeberkina/status/1913225547687088397)
+---
 
 ### Advertisement poster
 
@@ -118,7 +299,7 @@ I will send you a photo of a woman and a perfume bottle. Please don’t change t
 - **Model:** gpt4o
 - **Prompt Text:** `I will send you a photo of a woman and a perfume bottle. Please don’t change the woman’s face or the perfume bottle, but you can change her outfit. Using these visuals, I’d like you to create a perfume advertisement poster for a fragrance called “Miilesus.”`
 - **Example Image:** 
-<img src="https://pbs.twimg.com/media/Gn8IhpCW8AET9od?format=jpg&name=large" alt="Advertisement poster" height="400">
+<img src="https://cdn.imgedify.com/imgedify/images/1744936035093-2kf3i4b77xp.jpeg" alt="Advertisement poster" height="400">
 
 - **Author:** [Melis](https://x.com/miilesus/status/1909254147771089098)
 ---
@@ -130,7 +311,7 @@ I will send you a photo of a woman and a perfume bottle. Please don’t change t
 - **Model:** gpt4o
 - **Prompt Text:** `一幅超写实、电影感的插画，描绘了劳拉·克劳馥动态地撞穿一张“考古探险”集换卡牌的边框。她正处于跳跃中或用绳索摆荡，穿着标志性的冒险装备，可能正在使用双枪射击，枪口的火焰帮助将卡牌古老的石雕边框震碎，在破口周围制造出可见的维度破裂效果，如能量裂纹和空间扭曲，使灰尘和碎片四散飞溅。她的身体充满活力地向前冲出，带有明显的运动深度，突破了卡牌的平面，卡牌内部（背景）描绘着茂密的丛林遗迹或布满陷阱的古墓内部。卡牌的碎屑与 crumbling 的石头、飞舞的藤蔓、古钱币碎片和用过的弹壳混合在一起。“考古探险”的标题和“劳拉·克劳馥”的名字（带有一个风格化的文物图标）在卡牌剩余的、布满裂纹和风化痕迹的部分上可见。充满冒险感的、动态的灯光突出了她的运动能力和危险的环境。`
 - **Example Image:** 
-<img src="https://pbs.twimg.com/media/GouRHHBacAAv91I?format=jpg&name=large" alt="物理破坏效果卡片" height="400">
+<img src="https://cdn.imgedify.com/imgedify/images/1744936033572-d3jhy8l1xr6.jpeg" alt="物理破坏效果卡片" height="400">
 
 - **Author:** [歸藏(guizang.ai)](https://x.com/op7418/status/1912782170424578339)
 ---
@@ -144,7 +325,7 @@ A professional studio photo Panini soccer card feat
 - **Prompt Text:** `Generate a portrait ratio image with this prompt
 A professional studio photo Panini soccer card featuring football legend Lionel Messi wearing his iconic Argentina blue and white striped jersey. In a dramatic moment, Messi kicks the ball with force, breaking through the boundary of the card—shattering it into fragments. The card explodes into reality as Messi emerges from the 2D surface into the 3D world. In the foreground, a football spins at high speed, blurring toward the viewer. The background reveals the torn remains of the card against a dark backdrop, while radiant aurora-like light beams burst outward from the broken card, creating a surreal and powerful dimensional crossover effect.`
 - **Example Image:** 
-<img src="https://pbs.twimg.com/media/GooW8k0W4AEXYGj?format=jpg&name=900x900" alt="dimensional break card" height="400">
+<img src="https://cdn.imgedify.com/imgedify/images/1744936032664-95mi2fpl3at.jpeg" alt="dimensional break card" height="400">
 
 - **Author:** [Howard Chen](https://x.com/hc_dsn/status/1912367201476309396)
 ---
@@ -156,7 +337,7 @@ Create a Bauhaus style poster from this image and add the slogan [Good Morning] 
 - **Model:** gpt4o
 - **Prompt Text:** `Create a Bauhaus style poster from this image and add the slogan [Good Morning] as the title.`
 - **Example Image:** 
-<img src="https://pbs.twimg.com/media/GoueHJCWcAA_W_w?format=jpg&name=large" alt="poster" height="400">
+<img src="https://cdn.imgedify.com/imgedify/images/1744936030607-fwdqe8s6jgp.jpeg" alt="poster" height="400">
 
 - **Author:** [Melis](https://x.com/miilesus/status/1912796694309196065)
 ---
@@ -168,7 +349,7 @@ A beautiful woman wearing a pink cheongsam, floral headwear with colorful flower
 - **Model:** gpt4o
 - **Prompt Text:** `A beautiful woman wearing a pink cheongsam, floral headwear with colorful flowers in her hair, and an elegant white lace collar around her neck. She is holding large butterflies in one hand. The photography style features high-definition details, resembling a fashion magazine cover design. The text "FASHION DESIGN" is displayed at the top center of the photo. The background is a minimalist, light gray solid color, designed to highlight the model.`
 - **Example Image:** 
-<img src="https://pbs.twimg.com/media/Goq15--WAAgNzU9?format=jpg&name=large" alt="fashion magazine cover" height="400">
+<img src="https://cdn.imgedify.com/imgedify/images/1744936028228-1f4qomdg292.jpeg" alt="fashion magazine cover" height="400">
 
 - **Author:** [宝玉](https://x.com/dotey/status/1912541006961967325)
 ---
@@ -180,7 +361,7 @@ Create a realistic passport page with an entry stamp for [{City}, {Country}]. Th
 - **Model:** gpt4o
 - **Prompt Text:** `Create a realistic passport page with an entry stamp for [{City}, {Country}]. The stamp should say "Welcome to {City}" in bold English, designed in a round or oval shape with decorative borders. Include the word "ARRIVAL" and a fictional date like "15 APR 2025" Incorporate a subtle silhouette of {Main Landmark} as a background detail within the stamp. Use deep blue or red ink with light smudges for added realism. The stamp should appear slightly angled, as if hand-pressed. The passport page should show visible paper texture and security patterns.`
 - **Example Image:** 
-<img src="https://pbs.twimg.com/media/GolOPEkXkAA15HM?format=jpg&name=small" alt="passport page" height="400">
+<img src="https://cdn.imgedify.com/imgedify/images/1744936027004-vb8o5csr25.jpeg" alt="passport page" height="400">
 
 - **Author:** [89'S](https://x.com/M_w14_/status/1912146666410459618)
 ---
@@ -192,7 +373,7 @@ Pretend you are PSA, the Collectibles Authentication and Grading Service. Instea
 - **Model:** gpt4o
 - **Prompt Text:** `Pretend you are PSA, the Collectibles Authentication and Grading Service. Instead of cards, you will be grading the aura of the character in the image I provide. Be strict and objective when assigning a grade, using PSA’s official scale: PSA 1 = PR, PSA 1.5 = FR, PSA 2 = GOOD, PSA 3 = VG, PSA 4 = VG-EX, PSA 5 = EX, PSA 6 = EX-MT, PSA 7 = NM, PSA 8 = NM-MT, PSA 9 = MINT, PSA 10 = GEM MT. When done grading, create a PSA slab with the image provided, cropped to the size of a real card. The label at the top must follow the official PSA format. On the left, display the title "GNRLYXYZ" and directly below it, "1/1". Beneath that, place the PSA-style barcode only. On the right side of the label, stack the grade label from the PSA scale at the top, and the numeric grade from the PSA scale at the bottom. Below that, display the certification number. Ensure all text in the label is uniform in size and has balanced padding from the red border, exactly as seen on authentic PSA slabs. Place the slab on a white background and display the full slab. Do NOT add any text or labels on the card.`
 - **Example Image:** 
-<img src="https://pbs.twimg.com/media/GonUkYBWIAAghmk?format=jpg&name=small" alt="PSA" height="400">
+<img src="https://cdn.imgedify.com/imgedify/images/1744936026006-e1bek4ntbdm.jpeg" alt="PSA" height="400">
 
 - **Author:** [gnrly.xyz](https://x.com/gnrlyxyz/status/1912188062278238513)
 ---
@@ -726,42 +907,6 @@ Generate a portrait ratio photo with this prompt A hyper-realistic diorama of a 
 - **Author:** [宝玉](https://x.com/dotey/status/1911609122547449886)
 ---
 
-### 萌化电影剧照
-
-一个充满氛围感的电影中近景镜头，戏仿《The Godfather》中 Don Vito Corleone 在他昏暗办公室里的经典场景。一只体型稍大的泰迪熊，穿着深色西装，威严地坐在一张迷你办公桌后面，
-
-- **Model:** gpt4o
-- **Prompt Text:** `一个充满氛围感的电影中近景镜头，戏仿《The Godfather》中 Don Vito Corleone 在他昏暗办公室里的经典场景。一只体型稍大的泰迪熊，穿着深色西装，威严地坐在一张迷你办公桌后面，爪子里可能抱着一只更小的毛绒玩具（模仿猫）。房间光线昏暗，运用强烈的明暗对比（chiaroscuro），营造出一种既有权力感、沉思感，又不失泰迪熊固有可爱的奇特融合。`
-- **Example Image:** 
-<img src="https://cdn.imgedify.com/imgedify/images/1744299884467-u34aush0cx8.webp" alt="萌化电影剧照" height="400">
-
-- **Author:** [藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
----
-
-### 照片涂鸦玩法
-
-用蓝色画笔画一些可爱的涂鸦与画面主体产生互动，可以是人物也可以是动物或者其他东西，生成 2:3 图片，笔触的质感强一些
-
-- **Model:** gpt4o
-- **Prompt Text:** `用蓝色画笔画一些可爱的涂鸦与画面主体产生互动，可以是人物也可以是动物或者其他东西，生成 2:3 图片，笔触的质感强一些`
-- **Example Image:** 
-<img src="https://cdn.imgedify.com/imgedify/images/1744299879567-0tou7pwdqrk8.webp" alt="照片涂鸦玩法" height="400">
-
-- **Author:** [藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
----
-
-### 照片涂鸦玩法
-
-生成图片，把它打印出来，然后用红墨水疯狂地加上手写中文批注、涂鸦、乱画，如果你想的话，还可以加点小剪贴画
-
-- **Model:** gpt4o
-- **Prompt Text:** `生成图片，把它打印出来，然后用红墨水疯狂地加上手写中文批注、涂鸦、乱画，如果你想的话，还可以加点小剪贴画`
-- **Example Image:** 
-<img src="https://cdn.imgedify.com/imgedify/images/1744299878007-3i4361kt83t.webp" alt="照片涂鸦玩法" height="400">
-
-- **Author:** [藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
----
-
 ### 时尚杂志的封面
 
 《VOGUE》杂志封面：来自 League of Legends 的 Ashe - The Frost Archer 化身为高级时装模特。写实肖像，突出她标志性的白色长发、锐利蓝眼和冰霜女王般的冷艳气
@@ -774,14 +919,26 @@ Generate a portrait ratio photo with this prompt A hyper-realistic diorama of a 
 - **Author:** [藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
 ---
 
-### 游戏角色
+### 微观世界
 
-双重曝光，融合，混合，叠加双重曝光图像，双重曝光风格，展现了智慧的兽人萨满萨尔（高尔）剪影的奇妙双重曝光构图，与他旅程中那些视觉冲击力强、标志性的艾泽拉斯景观和符号和谐地交织在一起。奥格瑞玛宏伟的红色
+一个逼真且充满趣味的微型现代咖啡馆，热闹地呈现在一个盛满咖啡的马克杯里。这微缩咖啡馆包含一个迷你吧台，上面可能有微小的咖啡机和磨豆机，几张小桌子旁坐着微缩的顾客人偶，墙上（马克杯内壁）或许有迷你的菜单
 
 - **Model:** gpt4o
-- **Prompt Text:** `双重曝光，融合，混合，叠加双重曝光图像，双重曝光风格，展现了智慧的兽人萨满萨尔（高尔）剪影的奇妙双重曝光构图，与他旅程中那些视觉冲击力强、标志性的艾泽拉斯景观和符号和谐地交织在一起。奥格瑞玛宏伟的红色尖塔和崎岖的峡谷，旋转天空下纳格兰翠绿的浮岛和先祖之魂，以及噼啪作响的元素能量（闪电、大地、水之漩涡）通过他形象的肌理向外回响。或许毁灭之锤那标志性的形状，或是部落/霜狼氏族的标志被巧妙地融入其中。这增添了领导者遗产、萨满之力以及部落韧性的层次感。背景保持着鲜明的对比，营造出美丽的张力，将所有焦点吸引到层次丰富的双重曝光上。其特点在于萨尔剪影内部丰富而略带粗犷的全彩色方案（大地色调、部落红、元素蓝与橙），以及用智慧与原始力量勾勒出每一处轮廓的有力而刻意的线条。`
+- **Prompt Text:** `一个逼真且充满趣味的微型现代咖啡馆，热闹地呈现在一个盛满咖啡的马克杯里。这微缩咖啡馆包含一个迷你吧台，上面可能有微小的咖啡机和磨豆机，几张小桌子旁坐着微缩的顾客人偶，墙上（马克杯内壁）或许有迷你的菜单板或装饰画。真实的咖啡液面构成了咖啡馆的"地板"，上面可能还漂浮着微小的"拉花"图案。马克杯放在一张咖啡桌或吧台上，旁边可能是一个真实的羊角面包、笔记本电脑或糖罐，形成了微缩商业空间与日常饮品间的超现实对比。超写实风格、微距摄影、浅景深（焦点集中在咖啡馆内生动的场景和人物上）、明亮而柔和的、模拟咖啡馆的自然采光或室内灯光、高细节（体现在微缩设备的金属质感、人物的姿态和咖啡馆的装饰细节上）。`
 - **Example Image:** 
-<img src="https://cdn.imgedify.com/imgedify/images/1744299880646-mtu5gatbetm.webp" alt="游戏角色" height="400">
+<img src="https://cdn.imgedify.com/imgedify/images/1744299866291-yw7mzaz8xkn.webp" alt="微观世界" height="400">
+
+- **Author:** [藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
+---
+
+### 3D 图标
+
+将这套图标转换为 C4D 渲染的 3D 图标，材质参考第二张图，所有图标都具有 3D 感和等距、体积感
+
+- **Model:** Style
+- **Prompt Text:** `将这套图标转换为 C4D 渲染的 3D 图标，材质参考第二张图，所有图标都具有 3D 感和等距、体积感`
+- **Example Image:** 
+<img src="https://cdn.imgedify.com/imgedify/images/1744299870629-fjak4buh9fw.webp" alt="3D 图标" height="400">
 
 - **Author:** [藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
 ---
@@ -800,18 +957,6 @@ Generate a portrait ratio photo with this prompt A hyper-realistic diorama of a 
 
 ### 3D 图标
 
-将这套图标转换为 C4D 渲染的 3D 图标，材质参考第二张图，所有图标都具有 3D 感和等距、体积感
-
-- **Model:** Style
-- **Prompt Text:** `将这套图标转换为 C4D 渲染的 3D 图标，材质参考第二张图，所有图标都具有 3D 感和等距、体积感`
-- **Example Image:** 
-<img src="https://cdn.imgedify.com/imgedify/images/1744299870629-fjak4buh9fw.webp" alt="3D 图标" height="400">
-
-- **Author:** [藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
----
-
-### 3D 图标
-
 为第一张图片加上类似第二张的材质和光效，让他更像 C4D 渲染的结果
 
 - **Model:** Style
@@ -822,16 +967,28 @@ Generate a portrait ratio photo with this prompt A hyper-realistic diorama of a 
 - **Author:** [藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
 ---
 
-### 手绘风格的信息图卡片
+### 照片涂鸦玩法
 
-创作一张手绘风格的信息图卡片，比例为9:16竖版。卡片主题鲜明，背景为带有纸质肌理的米色或米白色，整体设计体现质朴、亲切的手绘美感。 卡片上方以红黑相间、对比鲜明的大号毛笔草书字体突出标题，吸引视觉焦
+用蓝色画笔画一些可爱的涂鸦与画面主体产生互动，可以是人物也可以是动物或者其他东西，生成 2:3 图片，笔触的质感强一些
 
 - **Model:** gpt4o
-- **Prompt Text:** `创作一张手绘风格的信息图卡片，比例为9:16竖版。卡片主题鲜明，背景为带有纸质肌理的米色或米白色，整体设计体现质朴、亲切的手绘美感。 卡片上方以红黑相间、对比鲜明的大号毛笔草书字体突出标题，吸引视觉焦点。文字内容均采用中文草书，整体布局分为2至4个清晰的小节，每节以简短、精炼的中文短语表达核心要点。字体保持草书流畅的韵律感，既清晰可读又富有艺术气息。 卡片中点缀简单、有趣的手绘插画或图标，例如人物或象征符号，以增强视觉吸引力，引发读者思考与共鸣。 整体布局注意视觉平衡，预留足够的空白空间，确保画面简洁明了，易于阅读和理解。 <h1><span style=""color:red"">「认知」</span>决定上限 <span style=""color:red"">「圈子」</span>决定机会</h1> - 你赚不到「认知」以外的钱， - 也遇不到「圈子」以外的机会。`
+- **Prompt Text:** `用蓝色画笔画一些可爱的涂鸦与画面主体产生互动，可以是人物也可以是动物或者其他东西，生成 2:3 图片，笔触的质感强一些`
 - **Example Image:** 
-<img src="https://cdn.imgedify.com/imgedify/images/1744299862758-4a9ohfbycl7.jpeg" alt="手绘风格的信息图卡片" height="400">
+<img src="https://cdn.imgedify.com/imgedify/images/1744299879567-0tou7pwdqrk8.webp" alt="照片涂鸦玩法" height="400">
 
-- **Author:** [宝玉](https://x.com/dotey/status/1907903480678985784)
+- **Author:** [藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
+---
+
+### 萌化电影剧照
+
+一个充满氛围感的电影中近景镜头，戏仿《The Godfather》中 Don Vito Corleone 在他昏暗办公室里的经典场景。一只体型稍大的泰迪熊，穿着深色西装，威严地坐在一张迷你办公桌后面，
+
+- **Model:** gpt4o
+- **Prompt Text:** `一个充满氛围感的电影中近景镜头，戏仿《The Godfather》中 Don Vito Corleone 在他昏暗办公室里的经典场景。一只体型稍大的泰迪熊，穿着深色西装，威严地坐在一张迷你办公桌后面，爪子里可能抱着一只更小的毛绒玩具（模仿猫）。房间光线昏暗，运用强烈的明暗对比（chiaroscuro），营造出一种既有权力感、沉思感，又不失泰迪熊固有可爱的奇特融合。`
+- **Example Image:** 
+<img src="https://cdn.imgedify.com/imgedify/images/1744299884467-u34aush0cx8.webp" alt="萌化电影剧照" height="400">
+
+- **Author:** [藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
 ---
 
 ### 明信片
@@ -846,26 +1003,26 @@ Generate a portrait ratio photo with this prompt A hyper-realistic diorama of a 
 - **Author:** [藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
 ---
 
-### 手帐玩法
+### 邮票
 
-请生成一张图片，模拟在一张略带纹理的纸张（比如米黄色或浅棕色）上手写的关于景区 [请在此处替换为景区名称] 的讲解笔记。图片应呈现旅行日志/拼贴画风格，包含以下元素：用手写字体（比如蓝色或棕色墨水）书
+Turn my 4 images into 4 classic, single-color postage stamps using detailed lines and shading. Give 
 
 - **Model:** gpt4o
-- **Prompt Text:** `请生成一张图片，模拟在一张略带纹理的纸张（比如米黄色或浅棕色）上手写的关于景区 [请在此处替换为景区名称] 的讲解笔记。图片应呈现旅行日志/拼贴画风格，包含以下元素：用手写字体（比如蓝色或棕色墨水）书写景区名称、地理位置、最佳游览季节、以及一两句吸引人的标语或简介。包含几个主要看点或特色的介绍，使用编号列表或项目符号（例如：[列举2-3个具体看点，如"奇特的岩石形态"，"古老的传说"，"独特的植物"等]），并配有简短的手写说明。用红色笔迹或其他亮色圈出或用箭头指向特别推荐的地点或活动（例如 [列举1-2个推荐项]）。穿插一些与景区特色相关的简单涂鸦式小图画（例如：[根据景区特色想1-2个代表性图画，如山峰轮廓、特色动植物、标志性建筑等]）。点缀几张关于该景区的、看起来像是贴上去的小幅照片（可以是风景照、细节照，风格可以略显复古或像宝丽来照片）。 整体感觉要像一份由热情导游或资深游客精心制作的、生动有趣的个人导览手记。`
+- **Prompt Text:** `Turn my 4 images into 4 classic, single-color postage stamps using detailed lines and shading. Give each their own color, Add a stamp value and fitting vintage-style text based on the subject. Make the image 3:4`
 - **Example Image:** 
-<img src="https://cdn.imgedify.com/imgedify/images/1744299874809-24ng1z3kupxj.webp" alt="手帐玩法" height="400">
+<img src="https://cdn.imgedify.com/imgedify/images/1744299886085-apxha71rus9.jpeg" alt="邮票" height="400">
 
-- **Author:** [藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
+- **Author:** [samdape](https://x.com/samdape/status/1908438312475373741)
 ---
 
-### 手帐玩法
+### 照片涂鸦玩法
 
-生成一张图片，宽高比为 2:3，图片内的文字请使用英文。这张图片要模拟一位读者为小说《The Shadow over Innsmouth》制作的个人笔记页面。风格： 拼贴画/剪贴簿美学，手绘元素与粘贴
+生成图片，把它打印出来，然后用红墨水疯狂地加上手写中文批注、涂鸦、乱画，如果你想的话，还可以加点小剪贴画
 
 - **Model:** gpt4o
-- **Prompt Text:** `生成一张图片，宽高比为 2:3，图片内的文字请使用英文。这张图片要模拟一位读者为小说《The Shadow over Innsmouth》制作的个人笔记页面。风格： 拼贴画/剪贴簿美学，手绘元素与粘贴物品混合，背景为有纹理的纸张（例如像 Moleskine 笔记本或牛皮纸）。请包含以下元素：手写引语： 几段来自小说的经典或有冲击力的英文句子，用清晰但带有个人风格的手写字体书写。人物涂鸦： 2-3位主要人物的简单涂鸦式头像速写，不必非常写实，更像是快速的印象捕捉。人物关系图： 在人物涂鸦之间绘制箭头，并附有简短的手写英文文字标签，说明他们之间的关系（例如："Siblings", "Lovers", "Mentor & Student", "Rivals"）。粘贴的书页一角： 一小块看起来很逼真的、模拟从实际小说书页上撕下或剪下的角落（上面能看到一些印刷的英文文字），看起来像是用胶带或胶水贴在笔记页面上的。（可选）批注： 可能在引语或人物旁边有一些小的手写笔记或问号。布局： 各元素应有机地排列，或许可以略微重叠，营造出一种经常使用的个人日记页面的感觉。整体感觉： 引人思考的，分析性的，个人化的，视觉上吸引人的。`
+- **Prompt Text:** `生成图片，把它打印出来，然后用红墨水疯狂地加上手写中文批注、涂鸦、乱画，如果你想的话，还可以加点小剪贴画`
 - **Example Image:** 
-<img src="https://cdn.imgedify.com/imgedify/images/1744299872756-sur1gjezu8.webp" alt="手帐玩法" height="400">
+<img src="https://cdn.imgedify.com/imgedify/images/1744299878007-3i4361kt83t.webp" alt="照片涂鸦玩法" height="400">
 
 - **Author:** [藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
 ---
@@ -894,28 +1051,52 @@ Generate a portrait ratio photo with this prompt A hyper-realistic diorama of a 
 - **Author:** [藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
 ---
 
-### 微观世界
+### 手绘风格的信息图卡片
 
-一个逼真且充满趣味的微型现代咖啡馆，热闹地呈现在一个盛满咖啡的马克杯里。这微缩咖啡馆包含一个迷你吧台，上面可能有微小的咖啡机和磨豆机，几张小桌子旁坐着微缩的顾客人偶，墙上（马克杯内壁）或许有迷你的菜单
+创作一张手绘风格的信息图卡片，比例为9:16竖版。卡片主题鲜明，背景为带有纸质肌理的米色或米白色，整体设计体现质朴、亲切的手绘美感。 卡片上方以红黑相间、对比鲜明的大号毛笔草书字体突出标题，吸引视觉焦
 
 - **Model:** gpt4o
-- **Prompt Text:** `一个逼真且充满趣味的微型现代咖啡馆，热闹地呈现在一个盛满咖啡的马克杯里。这微缩咖啡馆包含一个迷你吧台，上面可能有微小的咖啡机和磨豆机，几张小桌子旁坐着微缩的顾客人偶，墙上（马克杯内壁）或许有迷你的菜单板或装饰画。真实的咖啡液面构成了咖啡馆的"地板"，上面可能还漂浮着微小的"拉花"图案。马克杯放在一张咖啡桌或吧台上，旁边可能是一个真实的羊角面包、笔记本电脑或糖罐，形成了微缩商业空间与日常饮品间的超现实对比。超写实风格、微距摄影、浅景深（焦点集中在咖啡馆内生动的场景和人物上）、明亮而柔和的、模拟咖啡馆的自然采光或室内灯光、高细节（体现在微缩设备的金属质感、人物的姿态和咖啡馆的装饰细节上）。`
+- **Prompt Text:** `创作一张手绘风格的信息图卡片，比例为9:16竖版。卡片主题鲜明，背景为带有纸质肌理的米色或米白色，整体设计体现质朴、亲切的手绘美感。 卡片上方以红黑相间、对比鲜明的大号毛笔草书字体突出标题，吸引视觉焦点。文字内容均采用中文草书，整体布局分为2至4个清晰的小节，每节以简短、精炼的中文短语表达核心要点。字体保持草书流畅的韵律感，既清晰可读又富有艺术气息。 卡片中点缀简单、有趣的手绘插画或图标，例如人物或象征符号，以增强视觉吸引力，引发读者思考与共鸣。 整体布局注意视觉平衡，预留足够的空白空间，确保画面简洁明了，易于阅读和理解。 <h1><span style=""color:red"">「认知」</span>决定上限 <span style=""color:red"">「圈子」</span>决定机会</h1> - 你赚不到「认知」以外的钱， - 也遇不到「圈子」以外的机会。`
 - **Example Image:** 
-<img src="https://cdn.imgedify.com/imgedify/images/1744299866291-yw7mzaz8xkn.webp" alt="微观世界" height="400">
+<img src="https://cdn.imgedify.com/imgedify/images/1744299862758-4a9ohfbycl7.jpeg" alt="手绘风格的信息图卡片" height="400">
+
+- **Author:** [宝玉](https://x.com/dotey/status/1907903480678985784)
+---
+
+### 手帐玩法
+
+请生成一张图片，模拟在一张略带纹理的纸张（比如米黄色或浅棕色）上手写的关于景区 [请在此处替换为景区名称] 的讲解笔记。图片应呈现旅行日志/拼贴画风格，包含以下元素：用手写字体（比如蓝色或棕色墨水）书
+
+- **Model:** gpt4o
+- **Prompt Text:** `请生成一张图片，模拟在一张略带纹理的纸张（比如米黄色或浅棕色）上手写的关于景区 [请在此处替换为景区名称] 的讲解笔记。图片应呈现旅行日志/拼贴画风格，包含以下元素：用手写字体（比如蓝色或棕色墨水）书写景区名称、地理位置、最佳游览季节、以及一两句吸引人的标语或简介。包含几个主要看点或特色的介绍，使用编号列表或项目符号（例如：[列举2-3个具体看点，如"奇特的岩石形态"，"古老的传说"，"独特的植物"等]），并配有简短的手写说明。用红色笔迹或其他亮色圈出或用箭头指向特别推荐的地点或活动（例如 [列举1-2个推荐项]）。穿插一些与景区特色相关的简单涂鸦式小图画（例如：[根据景区特色想1-2个代表性图画，如山峰轮廓、特色动植物、标志性建筑等]）。点缀几张关于该景区的、看起来像是贴上去的小幅照片（可以是风景照、细节照，风格可以略显复古或像宝丽来照片）。 整体感觉要像一份由热情导游或资深游客精心制作的、生动有趣的个人导览手记。`
+- **Example Image:** 
+<img src="https://cdn.imgedify.com/imgedify/images/1744299874809-24ng1z3kupxj.webp" alt="手帐玩法" height="400">
 
 - **Author:** [藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
 ---
 
-### 邮票
+### 手帐玩法
 
-Turn my 4 images into 4 classic, single-color postage stamps using detailed lines and shading. Give 
+生成一张图片，宽高比为 2:3，图片内的文字请使用英文。这张图片要模拟一位读者为小说《The Shadow over Innsmouth》制作的个人笔记页面。风格： 拼贴画/剪贴簿美学，手绘元素与粘贴
 
 - **Model:** gpt4o
-- **Prompt Text:** `Turn my 4 images into 4 classic, single-color postage stamps using detailed lines and shading. Give each their own color, Add a stamp value and fitting vintage-style text based on the subject. Make the image 3:4`
+- **Prompt Text:** `生成一张图片，宽高比为 2:3，图片内的文字请使用英文。这张图片要模拟一位读者为小说《The Shadow over Innsmouth》制作的个人笔记页面。风格： 拼贴画/剪贴簿美学，手绘元素与粘贴物品混合，背景为有纹理的纸张（例如像 Moleskine 笔记本或牛皮纸）。请包含以下元素：手写引语： 几段来自小说的经典或有冲击力的英文句子，用清晰但带有个人风格的手写字体书写。人物涂鸦： 2-3位主要人物的简单涂鸦式头像速写，不必非常写实，更像是快速的印象捕捉。人物关系图： 在人物涂鸦之间绘制箭头，并附有简短的手写英文文字标签，说明他们之间的关系（例如："Siblings", "Lovers", "Mentor & Student", "Rivals"）。粘贴的书页一角： 一小块看起来很逼真的、模拟从实际小说书页上撕下或剪下的角落（上面能看到一些印刷的英文文字），看起来像是用胶带或胶水贴在笔记页面上的。（可选）批注： 可能在引语或人物旁边有一些小的手写笔记或问号。布局： 各元素应有机地排列，或许可以略微重叠，营造出一种经常使用的个人日记页面的感觉。整体感觉： 引人思考的，分析性的，个人化的，视觉上吸引人的。`
 - **Example Image:** 
-<img src="https://cdn.imgedify.com/imgedify/images/1744299886085-apxha71rus9.jpeg" alt="邮票" height="400">
+<img src="https://cdn.imgedify.com/imgedify/images/1744299872756-sur1gjezu8.webp" alt="手帐玩法" height="400">
 
-- **Author:** [samdape](https://x.com/samdape/status/1908438312475373741)
+- **Author:** [藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
+---
+
+### 游戏角色
+
+双重曝光，融合，混合，叠加双重曝光图像，双重曝光风格，展现了智慧的兽人萨满萨尔（高尔）剪影的奇妙双重曝光构图，与他旅程中那些视觉冲击力强、标志性的艾泽拉斯景观和符号和谐地交织在一起。奥格瑞玛宏伟的红色
+
+- **Model:** gpt4o
+- **Prompt Text:** `双重曝光，融合，混合，叠加双重曝光图像，双重曝光风格，展现了智慧的兽人萨满萨尔（高尔）剪影的奇妙双重曝光构图，与他旅程中那些视觉冲击力强、标志性的艾泽拉斯景观和符号和谐地交织在一起。奥格瑞玛宏伟的红色尖塔和崎岖的峡谷，旋转天空下纳格兰翠绿的浮岛和先祖之魂，以及噼啪作响的元素能量（闪电、大地、水之漩涡）通过他形象的肌理向外回响。或许毁灭之锤那标志性的形状，或是部落/霜狼氏族的标志被巧妙地融入其中。这增添了领导者遗产、萨满之力以及部落韧性的层次感。背景保持着鲜明的对比，营造出美丽的张力，将所有焦点吸引到层次丰富的双重曝光上。其特点在于萨尔剪影内部丰富而略带粗犷的全彩色方案（大地色调、部落红、元素蓝与橙），以及用智慧与原始力量勾勒出每一处轮廓的有力而刻意的线条。`
+- **Example Image:** 
+<img src="https://cdn.imgedify.com/imgedify/images/1744299880646-mtu5gatbetm.webp" alt="游戏角色" height="400">
+
+- **Author:** [藏师傅](https://mp.weixin.qq.com/s/lrPdx-TNz-t8Q6ea4pFGoA)
 ---
 
 ### 手写笔记风格图片
